@@ -1,0 +1,10 @@
+[X-GNOME-Metatheme]
+Name=JetSpace Flat
+Type=X-GNOME-Metatheme
+Comment=A flat style theme with JetSpace colors
+Encoding=UTF-8
+GtkTheme=JetSpaceFlat
+MetacityTheme=JetSpaceFlat
+IconTheme=Numix-Circle
+CursorTheme=Adwaita
+CursorSize=24

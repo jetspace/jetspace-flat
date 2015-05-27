@@ -1,0 +1,21 @@
+#	Modified Version for JetSpace
+#		-> Changed Colors!
+
+## Thanks to original author!
+
+Flat-Plat is a modern flat style theme for GTK2, GTK3, and GNOME-Shell. 
+This theme requires GNOME 3.14, and doesn't work properly with other versions.
+
+Installation
+============
+Extract the archive to the themes directory i.e. /usr/share/themes/
+Use gnome-tweak-tool to change the theme.
+
+Other Info
+==========
+Font: M+ 1C
+  http://mplus-fonts.sourceforge.jp/mplus-outline-fonts/index-en.html
+Wallpaper: Soap Bubbles
+  http://good-wallpapers.com/abstract/10332
+Color scheme: Flat UI Colors
+  http://flatuicolors.com/
